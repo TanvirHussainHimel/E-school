@@ -1,0 +1,39 @@
+/*common start*/
+body{
+	font-family: 'Popins', san-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000;
+
+}
+
+/*common end*/
+/*header start*/
+header{
+	padding: 15px 0;
+ background-color: #F0FF0;
+}
+.c_nav{}
+.logo{}
+.menu{}
+.menu ul li a{
+	padding: 0 25px !important;
+	color: #000000 !important;
+}
+.menu ul li a:hover{
+	color: #FD511A !important;
+}
+.btn_cm{
+	font-family: 'Roboto', san-serif;
+	color: white !important;
+	background-color: #21B573;
+	border-radius: 33px;
+}
+.btn_sign{
+	margin-left: 15px;
+	padding: 12px 28px;
+}
+.btn_cm:hover{
+	background-color: #FD511A !important;
+}
+/*header end*/
